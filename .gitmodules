@@ -1,0 +1,3 @@
+[submodule "ModuleC"]
+	path = ModuleC
+	url = https://github.com/liaojimo/ModuleC.git
